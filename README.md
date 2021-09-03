@@ -22,7 +22,7 @@ My name is Lucas França and i am a Data Science student from Brazil, currently 
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfranca016)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Send me a message!
 
