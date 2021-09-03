@@ -22,6 +22,8 @@ My name is Lucas França and i am a Data Science student from Brazil, currently 
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Send me a message!
 
 - I am open for collaborations and job offers, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
