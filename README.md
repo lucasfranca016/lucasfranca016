@@ -2,7 +2,7 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My name is Lucas França and i am a Data Science student from Brazil, currently majoring in physics at Universidade Federal do Rio de Janeiro (UFRJ). Gamer, Nerd and Full of ideas.
+My name is Lucas França and i am a Data Engineer intern from Brazil, currently majoring in physics at Universidade Federal do Rio de Janeiro (UFRJ). Gamer, Nerd and Full of ideas.
 
 ---
 
@@ -14,11 +14,11 @@ My name is Lucas França and i am a Data Science student from Brazil, currently 
  
 </p>
 
-- I’m currently working as student Researcher at my university UFRJ. 
-- I develop data analysis in the field of Particle Physics.
-- My goal now is to master Data Science techniques to find a job in the area.
-- Currently studying Machine Learning.
-- My proficiency is advanced mathematics/physical methods.
+- I’m currently working with creation and manuntention of ETL, using AWS services like EC2, S3 and Redshift,and manipulation of huge databases using SQL. 
+- I develop data analysis in the field of Particle Physics too.
+- My goal now is to raise my actual skills and keep learning to become the best professional i can be.
+- Currently studying Database modeling and Advanced SQL.
+- My proficiency is advanced mathematics/physical methods, Python, SQL and creativity.
 
 ---
 
