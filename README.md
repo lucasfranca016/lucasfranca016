@@ -2,7 +2,7 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My name is Lucas França and i am a Data Engineer intern from Brazil, currently majoring in physics at Universidade Federal do Rio de Janeiro (UFRJ). Gamer, Nerd and Full of ideas.
+My name is Lucas França and i am a Data Engineer intern from Brazil, currently cursing a minor about Databases. Gamer, Nerd and Full of ideas.
 
 ---
 
@@ -14,11 +14,11 @@ My name is Lucas França and i am a Data Engineer intern from Brazil, currently 
  
 </p>
 
-- I’m currently working with creation and manuntention of ETL, using AWS services like EC2, S3 and Redshift,and manipulation of huge databases using SQL. 
-- I develop data analysis in the field of Particle Physics too.
+- I’m currently working with creation and manuntention of ETL, using a bunch of technologies like GCP services (BQ, GCS, GKE, Pub/Sub, etc), Airflow, Kubernetes and also Spark.
+- I've already developed data analysis in the field of Particle Physics too.
 - My goal now is to raise my actual skills and keep learning to become the best professional i can be.
-- Currently studying Database modeling and Advanced SQL.
-- My proficiency is advanced mathematics/physical methods, Python, SQL and creativity.
+- Currently studying to become GCP Professional Engineer and also mastering Spark.
+- My proficiency is advanced mathematics/physical methods, Python, SQL, GCP, Airflow and creativity.
 
 ---
 
